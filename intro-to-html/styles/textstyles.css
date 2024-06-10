@@ -1,0 +1,175 @@
+  p {
+    font-family: Tahoma;
+  }
+
+  .tahoma {
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .deals {
+    font-weight: bolder;
+    font-size: 22px;
+    width: 300px;
+  }
+
+  .sales {
+    font-family: Arial;
+    color: red;
+    font-weight: 550;
+    font-size: 15px;
+    font-style: italic;
+  }
+
+  .verdana {
+    font-family: Verdana;
+  }
+
+  .title {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0px;
+  }
+
+  .subtitle {
+    color: gray;
+    margin-top: 0px;
+  }
+
+  .desc {
+    width: 260px;
+  }
+
+  button {
+    font-family: verdana;
+    background-color: rgb(5, 140, 5);
+    color: white;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px 10px 15px;
+  }
+
+  .shopping {
+    text-align: center;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .help {
+    text-align: center;
+    font-family: Arial;
+    font-weight: 500;
+  }
+
+  .learn {
+    text-align: center;
+    font-family: Arial;
+    color: cornflowerblue;
+  }
+
+  .L5-5e {
+    text-align: center;
+    font-family: Arial;
+  }
+
+  .L5-5e-1 {
+    color: rgb(231, 150, 0);
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 5px;
+  }
+
+  .L5-5e-2 {
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+  }
+
+  .L5-5e-3 {
+    font-weight: bold;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+  }
+
+  .L5-5e-4 {
+    font-size: 14px;
+    margin-top: 0px;
+    margin-bottom: 15px;
+  }
+
+  .Buy {
+    background-color: rgb(0, 115, 255);
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+    border-radius: 20px;
+    padding: 5px 10px 5px 10px;
+  }
+
+  .L5-5f {
+    font-family: Arial;
+  }
+
+  .L5-5f-1 {
+    font-size: 24px;
+    margin-bottom: 0px;
+  }
+
+  .currency {
+    color: grey;
+    font-size: 14px;
+  }
+
+  .L5-5f-2 {
+    color: rgb(0, 159, 0);
+    font-size: 12px;
+    margin-top: 6px;
+    margin-bottom: 0px;
+  }
+
+  .L5-5f-3 {
+    color: gray;
+    font-size: 12px;
+    margin-top: 6px;
+  }
+
+  .L5-5f-3-2 {
+    color: rgb(230, 61, 0);
+  }
+
+  .L5-5g {
+    font-family: Arial;
+  }
+
+  .L5-5g-1 {
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 25px;
+  }
+
+  .L5-5g-1-2 {
+    color: gray;
+    font-weight: normal;
+    margin-bottom: 0px;
+  }
+
+  .L5-5g-2 {
+    font-size: 15px;
+    margin-top: 6px;
+    margin-bottom: 0px;
+    width: 500px;
+    height: 25px;
+  }
+
+  .L5-5g-3 {
+    margin-top: 30px;
+    font-size: 15px;
+  }
+
+  .L5-5g-3-2 {
+    color: rgb(0, 119, 255);
+  }

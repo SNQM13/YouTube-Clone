@@ -1,0 +1,87 @@
+  .uber-btn {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 120px;
+    margin: 2px 4px 2px 4px;
+    cursor: pointer;
+  }
+
+  .amazon-btn {
+    background-color: rgb(255, 216, 20);
+    font-weight: 550;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    width: 150px;
+    margin: 2px 4px 2px 4px;
+    cursor: pointer;
+  }
+
+  .github-btn {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    margin: 2px 4px 2px 4px;
+    cursor: pointer;
+  }
+
+  .bootstrap-getstarted-btn {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+    height: 40px;
+    width: 120px;
+    margin: 2px 4px 2px 4px;
+    cursor: pointer;
+  }
+
+  .bootstrap-download-btn {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    font-weight: bold;
+    font-size: 16px;
+    border-width: 1.5px;
+    border-radius: 3px;
+    border-color: rgb(108, 117, 125);
+    height: 40px;
+    width: 120px;
+    margin: 2px 4px 2px 4px;
+    cursor: pointer;
+  }
+
+  .LinkedIn-apply-btn {
+    background-color: rgb(10, 102, 194);
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 20px;
+    height: 40px;
+    width: 250px;
+    margin: 2px 4px 2px 4px;
+    cursor: pointer;
+  }
+
+  .LinkedIn-save-btn {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    font-weight: bold;
+    font-size: 16px;
+    border-width: 1.5px;
+    border-radius: 20px;
+    border-color: rgb(10, 102, 194);
+    height: 40px;
+    width: 80px;
+    margin: 2px 4px 2px 4px;
+    cursor: pointer;
+  }
